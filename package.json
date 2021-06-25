@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "keywords": [],
-  "author": "Francisco Mata Sanchez <fmata@viewnext.com>",
+  "author": "Francisco Mata Sanchez <fcomasa85@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
